@@ -4,7 +4,6 @@
 **AbdallahZerfaoui/AbdallahZerfaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently turning **applied mathematics** into real-world solutions—whether it’s crunching numbers or simulating complex systems.  
+- 🌱 I’m honing my **C**, **C++**, and **Python** skills to tackle any challenge that needs a solid calculation approach.  
+- 👯 I’m looking to collaborate on projects where **problem-solving** is key: from algorithm optimization to high-performance computing.  
+- 🤔 I’m ready to jump into any domain that demands analytical thinking, from mechanical engineering to pure data science.  
+- 💬 Ask me about diving deep into **matrices**, speeding up **numerical methods**, or the best way to handle **high-performance** code.  
+- ⚡ Fun fact: If there’s a problem that needs maths, I’ll be there—debugging and iterating until it’s solved!
+
+
