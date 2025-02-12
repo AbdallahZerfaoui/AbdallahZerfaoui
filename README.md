@@ -1,3 +1,5 @@
+![Abdallah](Invention-is-by-its-very-nature-disruptive-If-you.jpg)
+
 ## Hi there 👋
 
 <!--
