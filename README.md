@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">Some of the projects I have done at 42 Heilbronn:</h3>
 <p align="left">
   <ul>
-    <li> <a href="https://github.com/dantonik/42-push-swap" target="_blank">push-swap</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/42PhilosophersHelper" target="_blank">42PhilosophersHelper</a> </li>
     <li> <a href="https://github.com/dantonik/42-philosophers" target="_blank">philosophers</a> </li>
     <li> <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a> </li>
     <li> <a href="https://github.com/dantonik/42-irc" target="_blank">irc server</a> </li>
