@@ -33,21 +33,18 @@ Here are some ideas to get you started:
 <h3 align="left">Some of the projects I have done at 42 Heilbronn:</h3>
 <p align="left">
   <ul>
-    <li> <a href="https://github.com/AbdallahZerfaoui/42PhilosophersHelper" target="_blank">42PhilosophersHelper</a> </li>
-    <li> <a href="https://github.com/dantonik/42-philosophers" target="_blank">philosophers</a> </li>
-    <li> <a href="https://github.com/dantonik/42-minishell" target="_blank">minishell</a> </li>
-    <li> <a href="https://github.com/dantonik/42-irc" target="_blank">irc server</a> </li>
-    <li> <a href="https://github.com/dantonik/mini_raytracer" target="_blank">raytracer</a> </li>
-    <li> <a href="https://github.com/dantonik/42-cpp" target="_blank">cpp</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/Philosophers" target="_blank">Philosophers</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/Minishell" target="_blank">Minishell</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/Cub3D" target="_blank">Cub3D</a> </li>
   </ul>
 </p>
 <h3 align="left">Testers for 42 Heilbronn:</h3>
 <p align="left">
   <ul>
-    <li> <a href="https://github.com/dantonik/42-philosophers-tester" target="_blank">philosophers tester</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/42PhilosophersHelper" target="_blank">42PhilosophersHelper</a> </li>
   </ul>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dantonik&label=Profile%20views&color=0e75b6&style=flat" alt="dantonik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdallahZerfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="AbdallahZerfaoui" /> </p>
 
