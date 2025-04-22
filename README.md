@@ -38,6 +38,15 @@ Here are some ideas to get you started:
     <li> <a href="https://github.com/AbdallahZerfaoui/Cub3D" target="_blank">Cub3D</a> </li>
   </ul>
 </p>
+
+<h3 align="left">Applied mathematics:</h3>
+<p align="left">
+  <ul>
+    <li> <a href="https://github.com/AbdallahZerfaoui/HeatEquationSolver.git" target="_blank">HeatEquationSolver</a> </li>
+    
+  </ul>
+</p>
+
 <h3 align="left">Testers for 42 Heilbronn:</h3>
 <p align="left">
   <ul>
