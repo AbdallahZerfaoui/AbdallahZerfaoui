@@ -47,10 +47,11 @@ Here are some ideas to get you started:
   </ul>
 </p>
 
-<h3 align="left">Testers for 42 Heilbronn:</h3>
+<h3 align="left">Tools for 42 Students:</h3>
 <p align="left">
   <ul>
     <li> <a href="https://github.com/AbdallahZerfaoui/42PhilosophersHelper" target="_blank">42PhilosophersHelper</a> </li>
+    <li> <a https://github.com/AbdallahZerfaoui/CPPs_classes_scripting.git" target="_blank">Automating C++ Class Creation</a> </li>
   </ul>
 </p>
 
