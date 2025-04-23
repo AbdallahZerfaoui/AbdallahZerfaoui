@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p align="left">
   <ul>
     <li> <a href="https://github.com/AbdallahZerfaoui/42PhilosophersHelper" target="_blank">42PhilosophersHelper</a> </li>
-    <li> <a https://github.com/AbdallahZerfaoui/CPPs_classes_scripting.git" target="_blank">Automating C++ Class Creation</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/CPPs_classes_scripting.git" target="_blank">Automating C++ Class Creation</a> </li>
   </ul>
 </p>
 
