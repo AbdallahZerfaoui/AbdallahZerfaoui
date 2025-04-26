@@ -47,6 +47,15 @@ Here are some ideas to get you started:
   </ul>
 </p>
 
+<h3 align="left">Games:</h3>
+<p align="left">
+  <ul>
+    <li> <a href="https://github.com/AbdallahZerfaoui/PokerCalculator" target="_blank">PokerCalculator</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/LabyrintheParfait" target="_blank">PerfectMaze</a> </li>
+    
+  </ul>
+</p>
+
 <h3 align="left">Tools for 42 Students:</h3>
 <p align="left">
   <ul>
