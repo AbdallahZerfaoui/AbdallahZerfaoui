@@ -36,6 +36,7 @@ Here are some ideas to get you started:
     <li> <a href="https://github.com/AbdallahZerfaoui/Philosophers" target="_blank">Philosophers</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/Minishell" target="_blank">Minishell</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/Cub3D" target="_blank">Cub3D</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/IRC.git" target="_blank">IRC</a> </li>
   </ul>
 </p>
 
