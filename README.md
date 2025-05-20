@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
 
-<h3 align="left">Some of the projects I have done at 42 Heilbronn:</h3>
+<h3 align="left">Project-driven methodology of 42 Heilbronn:</h3>
 <p align="left">
   <ul>
     <li> <a href="https://github.com/AbdallahZerfaoui/Philosophers" target="_blank">Philosophers</a> </li>
