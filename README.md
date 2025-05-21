@@ -48,8 +48,10 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahZerfaoui&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
-
-![snake gif](https://github.com/AbdallahZerfaoui/AbdallahZerfaoui/blob/output/github-snake.svg)
+  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/AbdallahZerfaoui/AbdallahZerfaoui/output/github-snake.svg" alt="github snake animation">
+</p>
 
 <h3 align="left">Project-driven methodology of 42 Heilbronn:</h3>
 <p align="left">
