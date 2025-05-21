@@ -84,6 +84,6 @@ Here are some ideas to get you started:
   </ul>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdallahZerfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="AbdallahZerfaoui" /> </p>
 
+![snake gif](https://github.com/AbdallahZerfaoui/AbdallahZerfaoui/blob/output/github-snake.svg)
