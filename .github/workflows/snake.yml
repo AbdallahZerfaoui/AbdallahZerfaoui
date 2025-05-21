@@ -31,6 +31,9 @@ jobs:
     runs-on: ubuntu-latest
 
     timeout-minutes: 10
+    # Add this permissions block
+    permissions:
+      contents: write # Allow GITHUB_TOKEN to write to the repository contents (push to output branch)
 
 
     steps:
