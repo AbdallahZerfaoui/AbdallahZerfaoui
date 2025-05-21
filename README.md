@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
 
+![snake gif](https://github.com/AbdallahZerfaoui/AbdallahZerfaoui/blob/output/github-snake.svg)
+
 <h3 align="left">Project-driven methodology of 42 Heilbronn:</h3>
 <p align="left">
   <ul>
@@ -86,4 +88,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdallahZerfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="AbdallahZerfaoui" /> </p>
 
-![snake gif](https://github.com/AbdallahZerfaoui/AbdallahZerfaoui/blob/output/github-snake.svg)
+
