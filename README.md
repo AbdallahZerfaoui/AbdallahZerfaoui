@@ -57,6 +57,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="48" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" alt="GitHub Actions"/>
   <img src="AWS.svg" width="48" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" width="48" alt="DigitOcean"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="48" alt="CloudFlare"/>
 </p>
 
 <!-- ML / DATA -->
