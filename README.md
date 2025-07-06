@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="60" height="60"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="git" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="scikit-learn.svg" alt="git" width="60" height="60"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
