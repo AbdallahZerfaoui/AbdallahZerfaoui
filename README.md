@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- LANGUAGES -->
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,fortran,python,bash" alt="C C++ Fortran Python Bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,fortran,python,matlab,bash" alt="C C++ Fortran Python Matlab Bash" />
 </p>
 
 <!-- Tools & Platforms -->
