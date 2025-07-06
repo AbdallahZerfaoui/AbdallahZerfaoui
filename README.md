@@ -29,7 +29,16 @@ Here are some ideas to get you started:
 <!-- LANGUAGES -->
 <h3>Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,fortran,python,bash" alt="C C++ Fortran Python Bash"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,fortran,python,bash" alt="C C++ Fortran Python Bash" />
+</p>
+
+<!-- Tools & Platforms -->
+<h3>Tools & Platforms</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" alt="Anaconda"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/>
 </p>
 
 <!-- DATABASES -->
