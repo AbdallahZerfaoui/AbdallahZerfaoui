@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 
 ### Languages
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,html,css" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=c,cpp,fortran,py,bash" /></a>
 </p>
 
 ### Databases
