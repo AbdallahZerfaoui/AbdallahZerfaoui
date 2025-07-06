@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" width="48" alt="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" alt="SqLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" alt="MariaDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"   width="48" alt="Redis"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"     width="48" alt="RabbitMQ"/>
 </p>
