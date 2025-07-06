@@ -76,11 +76,8 @@ Here are some ideas to get you started:
 </p>
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahZerfaoui&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="AbdallahZerfaoui" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&langs_count=4&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdallahZerfaoui&layout=compact&langs_count=8&theme=radical"/>
   
 <p align="left">
   <img src="https://raw.githubusercontent.com/AbdallahZerfaoui/AbdallahZerfaoui/output/github-snake.svg" alt="github snake animation">
