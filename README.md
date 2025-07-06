@@ -24,32 +24,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: If there’s a problem that needs maths, I’ll be there, debugging and iterating until it’s solved!
 
 
-### Languages
+
+
+<!-- LANGUAGES -->
+<h3>Languages</h3>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=c,cpp,fortran,py,bash" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,fortran,python,bash" alt="C C++ Fortran Python Bash"/>
 </p>
 
-### Databases
+<!-- DATABASES -->
+<h3>Databases & Message Brokers</h3>
 <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" width="48" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"   width="48" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"     width="48" alt="RabbitMQ"/>
 </p>
 
-### Tools & Platforms
+<!-- DEVOPS -->
+<h3>DevOps & Cloud</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"   width="48" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="48" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" alt="GitHub Actions"/>
+  <img src="AWS.svg" width="48" alt="AWS"/>
 </p>
 
-### Frameworks
+<!-- ML / DATA -->
+<h3>Data & ML</h3>
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="60" height="60"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="git" width="60" height="60"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="git" width="60" height="60"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="scikit-learn.svg" alt="git" width="60" height="60"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="48" alt="Pandas"/>
+  <img src="scikit-learn.svg" width="48" alt="scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahZerfaoui&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
 
