@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" alt="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="48" alt="Pandas"/>
   <img src="scikit-learn.svg" width="48" alt="scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" alt="PyTorch"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahZerfaoui&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
