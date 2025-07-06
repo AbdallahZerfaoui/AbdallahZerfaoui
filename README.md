@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: If there’s a problem that needs maths, I’ll be there, debugging and iterating until it’s solved!
 
 
-### Frameworks & Libraries
+### Languages
 <p align="left">
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,html,css" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="" alt="git" width="60" height="60"/></a>
 </p>
 
 ### Databases
