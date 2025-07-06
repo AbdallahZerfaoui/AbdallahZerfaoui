@@ -59,6 +59,15 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" alt="PyTorch"/>
 </p>
 
+<h3>Frameworks & Libraries</h3>
+<p align="left">
+  <img src="FastAPI.svg" width="48" alt="FastAPI"/>
+  <img src="scrapy.svg" width="48" alt="Scrapy"/>
+</p>
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahZerfaoui&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
