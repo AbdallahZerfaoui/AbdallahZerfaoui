@@ -24,3 +24,12 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="git" width="60" height="60"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="scikit-learn.svg" alt="git" width="60" height="60"/></a>
 </p>
+
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=AbdallahZerfaoui&size_weight=0.1&count_weight=0.9&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="AbdallahZerfaoui" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&langs_count=4&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
