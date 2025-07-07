@@ -33,3 +33,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdallahZerfaoui&show_icons=true&locale=en&langs_count=4&cache_seconds=1800" alt="AbdallahZerfaoui" /></p>
+
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdallahZerfaoui&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
