@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="FastAPI.svg" width="48" alt="FastAPI"/>
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/selenium.svg" width="48" alt="Selenium"/>
-  <img src="scrapy.svg" width="48" alt="Scrapy"/>
+  <img alt="Scrapy" src="https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/logo.svg" height=48 width=150 style="max-width: 100%;">
 </p>
 
 <!-- STATS -->
