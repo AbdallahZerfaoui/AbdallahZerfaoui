@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 <h3>Frameworks & Libraries</h3>
 <p align="left">
   <img src="FastAPI.svg" width="48" alt="FastAPI"/>
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/selenium.svg" width="48" alt="Selenium"/>
   <img src="scrapy.svg" width="48" alt="Scrapy"/>
 </p>
 
