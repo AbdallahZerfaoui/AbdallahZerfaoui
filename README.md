@@ -1,4 +1,9 @@
+<!--
 ![](Invention-is-by-its-very-nature-disruptive-If-you.jpg)
+-->
+<p align="center">
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw3aDhzbzY5czFid2ptcXpubzFrYXR1Y3Q0aG1jeWliemR1bG4wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif>
+</p>
 
 ## Hi there 👋
 
