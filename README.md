@@ -141,7 +141,7 @@ I bring a senior engineer's discipline to a junior cloud role:
 <h3 align="left">Tools for 42 Students:</h3>
 <p align="left">
   <ul>
-    <li> <a href="https://github.com/AbdallahZerfaoui/42PhilosophersHelper" target="_blank">42PhilosophersHelper</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/concurrency-stress-tester" target="_blank">concurrency-stress-tester</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/CPPs_classes_scripting.git" target="_blank">Automating C++ Class Creation</a> </li>
   </ul>
 </p>
