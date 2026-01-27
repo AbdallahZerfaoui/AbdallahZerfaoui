@@ -113,7 +113,7 @@ I bring a senior engineer's discipline to a junior cloud role:
 <h3 align="left">Project-driven methodology of 42 Heilbronn:</h3>
 <p align="left">
   <ul>
-    <li> <a href="https://github.com/AbdallahZerfaoui/Philosophers" target="_blank">Philosophers</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/thread-safe-resource-allocator" target="_blank">thread-safe-resource-allocator</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/Minishell" target="_blank">Minishell</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/Cub3D" target="_blank">Cub3D</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/IRC.git" target="_blank">IRC</a> </li>
