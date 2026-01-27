@@ -11,28 +11,34 @@
 
 ![Matrix SVG](./assets/matrix.svg)
 
-## Hi there 👋
+# Hi, I'm Abdallah. 👋
 
-<!--
-**AbdallahZerfaoui/AbdallahZerfaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Cloud Engineer | Former Aeronautical Engineer (7 Years)
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an engineer transitioning from high-precision aerospace systems to **Cloud Infrastructure**. 
+My background in **Finite Element Analysis** (Safran/Nenuphar) taught me that system failure is not an option, it's a design constraint. I am now applying that same rigor to building reliable, scalable cloud solutions.
 
-- 🔭 I’m currently turning **applied mathematics** into real-world solutions—whether it’s crunching numbers or simulating complex systems.  
-- 🌱 I’m honing my **C**, **C++**, and **Python** skills to tackle any challenge that needs a solid calculation approach.  
-- 👯 I’m looking to collaborate on projects where **problem-solving** is key: from algorithm optimization to high-performance computing.  
-- 🤔 I’m ready to jump into any domain that demands analytical thinking, from mechanical engineering to pure data science.  
-- 💬 Ask me about diving deep into **matrices**, speeding up **numerical methods**, or the best way to handle **high-performance** code.  
-- ⚡ Fun fact: If there’s a problem that needs maths, I’ll be there, debugging and iterating until it’s solved!
+I am not just looking to write code; I am looking to build and maintain the infrastructure that code runs on.
+
+---
+
+### ☁️ Cloud & Systems Stack
+* **Core:** Python (Automation/APIs), C/C++ (System proficiency), Bash.
+* **Infrastructure:** Docker, Linux Systems, CI/CD Pipelines.
+* **Interests:** Cloud Native technologies, Distributed Systems, High Availability.
+
+### ⚙️ Engineering Mindset
+I bring a senior engineer's discipline to a junior cloud role:
+* **Deep Linux Understanding:** Through 42 School, I rebuilt shells and handled low-level concurrency (Mutex/Threads). I don't just use the OS; I understand it.
+* **Automate Everything:** If I have to do it twice, I script it.
+* **Defensive Design:** I anticipate failure modes. My code is type-hinted, tested, and built to crash safely rather than fail silently.
+
+### 🔭 Current Focus
+* Deepening knowledge in **Cloud Infrastructure** and **Container Orchestration**.
+* **[Kiwi-Flight-Engine](https://github.com/AbdallahZerfaoui/kiwi-flight-engine)**: A containerized flight search service using Async I/O (FastAPI).
+* **Systems Programming**: Low-level resource management and concurrency control in C.
+
+---
 
 
 
