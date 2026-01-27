@@ -114,7 +114,7 @@ I bring a senior engineer's discipline to a junior cloud role:
 <p align="left">
   <ul>
     <li> <a href="https://github.com/AbdallahZerfaoui/thread-safe-resource-allocator" target="_blank">thread-safe-resource-allocator</a> </li>
-    <li> <a href="https://github.com/AbdallahZerfaoui/Minishell" target="_blank">Minishell</a> </li>
+    <li> <a href="https://github.com/AbdallahZerfaoui/linux-process-interpreter" target="_blank">linux-process-interpreter</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/Cub3D" target="_blank">Cub3D</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/IRC.git" target="_blank">IRC</a> </li>
     <li> <a href="https://github.com/AbdallahZerfaoui/Inception.git" target="_blank">Inception</a> </li>
